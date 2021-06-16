@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hivet01090
+- 👋 Hi, I’m emmanuel Hivet
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web developpement with freeCodecamp
 - 💞️ I’m looking to collaborate on ...
